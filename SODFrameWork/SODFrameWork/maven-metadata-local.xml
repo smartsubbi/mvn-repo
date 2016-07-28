@@ -3,7 +3,7 @@
   <groupId>SODFrameWork</groupId>
   <artifactId>SODFrameWork</artifactId>
   <versioning>
-    <release>3.9.26</release>
+    <release>3.9.27</release>
     <versions>
       <version>1.0.4</version>
       <version>1.0.5</version>
@@ -94,7 +94,8 @@
       <version>3.9.24</version>
       <version>3.9.25</version>
       <version>3.9.26</version>
+      <version>3.9.27</version>
     </versions>
-    <lastUpdated>20160728065211</lastUpdated>
+    <lastUpdated>20160728070018</lastUpdated>
   </versioning>
 </metadata>
